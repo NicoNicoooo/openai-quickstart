@@ -155,3 +155,5 @@ https://github.com/NicoNicoooo/openai-quickstart/blob/main/summary.json
 
 ## Day2
 https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai-translator/ai_translator/utils/argument_parser.py
+https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai-translator/tests/test_translated.md
