@@ -154,6 +154,15 @@ Django Peng - pjt73651@email.com
 https://github.com/NicoNicoooo/openai-quickstart/blob/main/summary.json
 
 ## Day2
+GPT-4V的使用
 https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+翻译
 https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai-translator/ai_translator/utils/argument_parser.py
 https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai-translator/tests/test_translated.md
+扩展langchain chains
+https://github.com/NicoNicoooo/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
+
+
+## Day3
+手机销售机器人
+https://github.com/NicoNicoooo/openai-quickstart/blob/main/langchain/phone_sales_chatbot
