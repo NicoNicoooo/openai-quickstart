@@ -152,3 +152,6 @@ Django Peng - pjt73651@email.com
 ## Day1
 课程总结
 https://github.com/NicoNicoooo/openai-quickstart/blob/main/summary.json
+
+## Day2
+https://github.com/NicoNicoooo/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
